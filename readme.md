@@ -1,6 +1,6 @@
-Hatul Shajo is a backend project 🛒
+Julián Martínez Zaffuán is a backend project 🛒
 
-### Enterga Clase 2:
+### Entrega Clase 2:
 - ProductManager (constructor → []): addProduct, getProducts, getProductById.
 
 ### Entrega Clase 4:
